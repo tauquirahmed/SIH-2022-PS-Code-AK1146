@@ -1,0 +1,11 @@
+tkinter
+PIL
+os
+cmake
+dlib
+opencv-python
+face-recognition
+numpy
+sqlite3
+time
+datetime
