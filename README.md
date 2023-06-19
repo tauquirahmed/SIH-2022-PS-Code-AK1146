@@ -22,3 +22,10 @@ managed.
 • If any unknown person come across the CCTV their Demographic Data (Age range, Gender) will be stored on the
 database along with the timestamp and date. We have used some pre-trained data and DNN algorithm to detect the
 demographic data.
+
+
+Steps to run the application:
+
+1. Install the dependencies using the command `pip install requirements.txt` in the terminal.
+   Note: You might face some difficulties installing a few libraries like d-lib and face-recognition. Take help from stack-overflow or any other resources available.
+2. Run the main file by using the Run command or by using the command `python run main.py` in the terminal.
