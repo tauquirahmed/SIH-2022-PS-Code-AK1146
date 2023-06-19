@@ -24,7 +24,7 @@ database along with the timestamp and date. We have used some pre-trained data a
 demographic data.
 
 
-Steps to run the application:
+## Steps to run the application:
 
 1. Install the dependencies using the command `pip install requirements.txt` in the terminal.
    Note: You might face some difficulties installing a few libraries like d-lib and face-recognition. Take help from stack-overflow or any other resources available.
@@ -32,4 +32,21 @@ Steps to run the application:
 3. The Homepage of the Application will appear where you can see different options as shown below.
 
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/84efbe0d-9ba5-4d30-8825-d709111597d1)
+
+## Students Database
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/38485627-e466-4b57-b4d7-df81ff49ff18)
+
+##Face Recognition
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/335101be-ec68-4b6d-97f7-5bd483ab2c46)
+
+##Mask Detection
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/4ccdaa9d-5a26-4e1b-a179-ffdc402463c1)
+
+##Temperature Detection
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/ebc03b1b-e480-481d-bacd-4a25b49878d1)
+
+##Final Result
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/4cb37e07-3266-4884-81ad-c08d93917922)
+
+
 
