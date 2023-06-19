@@ -29,3 +29,7 @@ Steps to run the application:
 1. Install the dependencies using the command `pip install requirements.txt` in the terminal.
    Note: You might face some difficulties installing a few libraries like d-lib and face-recognition. Take help from stack-overflow or any other resources available.
 2. Run the main file by using the Run command or by using the command `python run main.py` in the terminal.
+3. The Homepage of the Application will appear where you can see different options as shown below.
+
+![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/84efbe0d-9ba5-4d30-8825-d709111597d1)
+
