@@ -36,16 +36,16 @@ demographic data.
 ## Students Database
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/38485627-e466-4b57-b4d7-df81ff49ff18)
 
-##Face Recognition
+## Face Recognition
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/335101be-ec68-4b6d-97f7-5bd483ab2c46)
 
-##Mask Detection
+## Mask Detection
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/4ccdaa9d-5a26-4e1b-a179-ffdc402463c1)
 
-##Temperature Detection
+## Temperature Detection
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/ebc03b1b-e480-481d-bacd-4a25b49878d1)
 
-##Final Result
+## Final Result
 ![image](https://github.com/tauquirahmed/SIH-2022-PS-Code-AK1146/assets/100079429/4cb37e07-3266-4884-81ad-c08d93917922)
 
 
