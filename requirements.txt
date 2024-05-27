@@ -1,11 +1,10 @@
-tkinter
-PIL
-os
+tk
+numpy
+Pillow==9.5.0
 cmake
 dlib
 opencv-python
 face-recognition
-numpy
-sqlite3
-time
 datetime
+scikit-learn
+pyreadline3
